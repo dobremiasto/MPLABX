@@ -2028,8 +2028,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 [; ;main.c: 259:     _delay((unsigned long)((100)*(8000000/4000.0)));
 [e ( __delay (1 -> * -> -> 100 `i `d / -> -> 8000000 `l `d .4000.0 `ul ]
 "260
-[; ;main.c: 260:     RDA_WRITE(0x05, 0b1000001011110010);
-[e ( _RDA_WRITE (2 , -> -> 5 `i `uc -> 33522 `ui ]
+[; ;main.c: 260:     RDA_WRITE(0x05, 0b1000001011110011);
+[e ( _RDA_WRITE (2 , -> -> 5 `i `uc -> 33523 `ui ]
 "263
 [; ;main.c: 263:     Backlight();
 [e ( _Backlight ..  ]

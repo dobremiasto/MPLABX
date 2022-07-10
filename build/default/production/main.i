@@ -17557,7 +17557,7 @@ void main(void) {
     _delay((unsigned long)((100)*(8000000/4000.0)));
     RDA_WRITE(0x04, 0b0000100000000000);
     _delay((unsigned long)((100)*(8000000/4000.0)));
-    RDA_WRITE(0x05, 0b1000001011110010);
+    RDA_WRITE(0x05, 0b1000001011110011);
 
 
     Backlight();

@@ -1454,7 +1454,7 @@ Version 4.0 HI-TECH Software Intermediate Code
 "259
 [e ( __delay (1 -> * -> -> 100 `i `d / -> -> 8000000 `l `d .4000.0 `ul ]
 "260
-[e ( _RDA_WRITE (2 , -> -> 5 `i `uc -> 33522 `ui ]
+[e ( _RDA_WRITE (2 , -> -> 5 `i `uc -> 33523 `ui ]
 "263
 [e ( _Backlight ..  ]
 "264
