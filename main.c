@@ -257,7 +257,7 @@ void main(void) {
     __delay_ms(100);
     RDA_WRITE(0x04, 0b0000100000000000);
     __delay_ms(100);
-    RDA_WRITE(0x05, 0b1000001011110010); //
+    RDA_WRITE(0x05, 0b1000001011110011); //
     //while(1);
 
     Backlight();
